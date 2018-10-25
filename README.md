@@ -1,7 +1,6 @@
 # SparkLearning
 
-I have started learning Spark with Scala.I am doing one course on udemy regarding the same.
-This project contains handson exercise/solutions of the course
+compiled course material & solution of the assignments
 
 ---
 
